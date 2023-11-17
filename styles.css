@@ -1,0 +1,30 @@
+main{
+    border: 1px solid black;
+    margin: auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 0;
+}
+header{
+    margin: auto;
+    width: 100%;
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: gray;
+    color: white;
+
+}
+.kepek2 img{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: auto;
+    width: 100%;
+    padding: 1px;
+}
+.kepek img{
+    margin: auto;
+    width: 100%;
+    padding: 1px;
+}
